@@ -132,8 +132,7 @@
 <div align="center">
   
   **Feel free to reach out for collaborations, mentorship, or just to say hello! 👋**
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer" alt="Footer" />
-</div> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/realsakshamgarg/realsakshamgarg/main/wave.svg" alt="Wave" />
+</p>
