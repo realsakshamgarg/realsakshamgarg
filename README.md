@@ -1,21 +1,139 @@
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=100&lines=Hello%2C%20I'm%20Saksham!;Welcome%20to%20my%20pixel%20world;Let's%20code%20some%20magic;Ready%20for%20the%20challenge" alt="Pixel Typing" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realsakshamgarg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/realsakshamgarg) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/realsakshamgarg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshamgarg1303@gmail.com ) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=realsakshamgarg&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=realsakshamgarg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=realsakshamgarg&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=realsakshamgarg&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/realsakshamgarg/realsakshamgarg/main/bounties-main-card.gif" alt="Profile GIF" width="840" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=realsakshamgarg&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=18&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=SKILLS%20%26%20EXPERTISE" alt="SKILLS & EXPERTISE" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FFFFFF" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FFFFFF" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=FFFFFF" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=FFFFFF" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=FFFFFF" alt="Solana" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=FFFFFF" alt="Ethereum" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF" alt="Figma" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFFFFF" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=FFFFFF" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=FFFFFF" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF" alt="Postman" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=FFFFFF" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux" />
+  <img src="https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=anchor&logoColor=FFFFFF" alt="Anchor" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=FFFFFF" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" alt="VS Code" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" alt="MongoDB" />
+</div>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=18&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=SCOREBOARD" alt="SCOREBOARD" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=realsakshamgarg&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=realsakshamgarg&theme=github_dark&hide_border=true&utcOffset=5.5&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realsakshamgarg&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realsakshamgarg&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=FF0080&bg_color=0D1117" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realsakshamgarg&theme=github-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=FF0080&fire=00FFFF&currStreakNum=ffffff&currStreakLabel=00FF41&sideNums=ffffff&sideLabels=FF0080&dates=00FFFF" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=18&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=CONTACT%20ME" alt="CONTACT ME" />
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/realsakshamgarg" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/realsakshamgarg" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00FF41" alt="Twitter" />
+  </a>
+  <a href="mailto:sakshamgarg1303@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Gmail" />
+  </a>
+  <a href="https://realsakshamgarg.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=00FF41" alt="Portfolio" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=18&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=50&lines=ACTIVITY%20GRAPH" alt="ACTIVITY GRAPH" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realsakshamgarg&theme=github-dark&hide_border=true&area=true&area_color=00FF41&line=FF0080&point=00FFFF&color=ffffff&bg_color=0D1117" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&weight=400&size=16&duration=1&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=40&lines=PROFILE%20STATISTICS" alt="PROFILE STATISTICS" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/realsakshamgarg">
+    <img src="https://komarev.com/ghpvc/?username=realsakshamgarg&style=for-the-badge&color=00FF41&label=PROFILE+VISITORS" alt="Profile Visitors" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-ONLINE-00FF41?style=for-the-badge&logo=terminal&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/Available%20for%20collaboration-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Collaboration" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" alt="Open to Work" />
+</div>
+
+<div align="center">
+  
+  **Feel free to reach out for collaborations, mentorship, or just to say hello! 👋**
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer" alt="Footer" />
+</div> 
