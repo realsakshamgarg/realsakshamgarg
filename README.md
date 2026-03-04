@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/realsakshamgarg/realsakshamgarg/main/bounties-main-card.gif" alt="Profile GIF" width="840" />
+  <img src="https://raw.githubusercontent.com/realsakshamgarg/realsakshamgarg/main/giphy.gif" alt="Profile GIF" width="840" />
 </div>
