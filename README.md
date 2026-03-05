@@ -14,20 +14,20 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header"/>
 </p>
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=26&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=950&height=110&repeat=false&lines=Choose+Wisely..." />
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=26&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=950&height=110&repeat=false&lines=Choose+Wisely" />
 </div>
 <div align="center">
 <img src="https://raw.githubusercontent.com/realsakshamgarg/realsakshamgarg/main/Choose Red Pill GIF by Christopher Pindling.gif" alt="Profile GIF" width="420"/>
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=24&duration=5200&pause=2000&color=00FF41&center=true&vCenter=true&width=850&height=105&lines=Decision+confirmed...;Executing+Red+Pill...;Reality.exe+loaded...;Access+Granted" />
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=24&duration=5200&pause=2000&color=00FF41&center=true&vCenter=true&width=850&height=105&lines=Decision+confirmed...;Executing+Red+Pill...;Reality.exe+initialized...;Access+Granted" />
 </div>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header"/>
 </p>
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=26&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=950&height=65&repeat=false&lines=Entering+Mainframe..." />
-<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=45&lines=Loading+system+modules..." />
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=30&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=950&height=70&repeat=false&lines=Entering+Mainframe" />
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00cc33&center=true&vCenter=true&width=700&height=40&lines=Loading+system+modules..." />
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41"/>
@@ -38,18 +38,18 @@
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41"/>
+<br>
 <img src="https://img.shields.io/badge/Tailwind CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41"/>
-<br>
 <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/Scikit Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FF41"/>
+<br>
+<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41"/>
-<br>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Replit-000000?style=for-the-badge&logo=replit&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FF41"/>
@@ -59,3 +59,52 @@
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
 </div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header"/>
+</p>
+<div align="center">
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=80&repeat=false&lines=Mission+Objectives" />
+</div>
+<div align="center">
+  
+```diff
++ Machine Learning Fundamentals
++ Data Structures & Algorithms (C++)
++ Data Analysis with Python
++ Deep Learning Foundations
++ Backend Development with Django & FastAPI
+```
+</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header"/>
+</p>
+<div align="center">
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=80&repeat=false&lines=Analyzing+System+Performance" />
+</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=realsakshamgarg&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" height="170"/>
+<img src="https://streak-stats.demolab.com?user=realsakshamgarg&theme=chartreuse-dark&hide_border=true&background=000000" height="170"/>
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=realsakshamgarg&theme=chartreuse-dark&bg_color=000000&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header"/>
+</p>
+<div align="center">
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=80&repeat=false&lines=System+Connections" />
+</div>
+<p align="center">
+<a href="https://x.com/realsakshamgarg">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41"/>
+</a>
+<a href="https://github.com/realsakshamgarg">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
+<a href="mailto:sakshamgarg1303@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+</a>
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header"/>
+</p>
