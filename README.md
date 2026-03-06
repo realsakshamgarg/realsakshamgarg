@@ -30,6 +30,10 @@
 <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00cc33&center=true&vCenter=true&width=700&height=40&lines=Loading+system+modules..." />
 </div>
 <div align="center">
+  <img src="https://raw.githubusercontent.com/realsakshamgarg/realsakshamgarg/main/never ending illusion GIF.gif" alt="Profile GIF" width="600" />
+</div>
+<br>
+<div align="center">
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FF41"/>
