@@ -17,7 +17,7 @@
 <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=30&duration=2000&pause=800&color=00cc33&center=true&vCenter=true&width=950&height=70&repeat=false&lines=Choose+Wisely" />
 </div>
 <div align="center">
-<img src="https://raw.githubusercontent.com/realsakshamgarg/realsakshamgarg/main/Choose Red Pill GIF by Christopher Pindling.gif" alt="Profile GIF" width="420"/>
+<img src="https://raw.githubusercontent.com/realsakshamgarg/realsakshamgarg/main/Choose Red Pill GIF by Christopher Pindling.gif" alt="Choose Red Pill GIF by Christopher Pindling" width="420"/>
 </div>
 <div align="center">
 <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=25&duration=5200&pause=2000&color=00FF41&center=true&vCenter=true&width=850&height=105&lines=Decision+confirmed...;Executing+Red+Pill...;Reality.exe+initialized...;Access+Granted" />
@@ -30,7 +30,7 @@
 <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00cc33&center=true&vCenter=true&width=700&height=40&lines=Loading+system+modules..." />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/realsakshamgarg/realsakshamgarg/main/never ending illusion GIF.gif" alt="Profile GIF" width="900" />
+  <img src="https://raw.githubusercontent.com/realsakshamgarg/realsakshamgarg/main/never ending illusion GIF.gif" alt="never ending illusion GIF" width="600" />
 </div>
 <br>
 <div align="center">
