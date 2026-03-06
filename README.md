@@ -2,31 +2,31 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header"/>
 </p>
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=26&duration=3600&pause=1200&color=00FF41&center=true&vCenter=true&width=1000&height=110&repeat=false&lines=System+Booting...;Accessing+Mainframe...;Establishing+Secure+Connection...;Decrypting+Reality...;User+Identified:Saksham" />
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=30&duration=3600&pause=1200&color=00FF41&center=true&vCenter=true&width=1000&height=110&repeat=false&lines=System+Booting...;Accessing+Mainframe...;Establishing+Secure+Connection...;Decrypting+Reality...;User+Identified:Saksham" />
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/realsakshamgarg/realsakshamgarg/main/Sci-Fi Cyberpunk GIF.gif" alt="Profile GIF" width="900" />
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=24&duration=4200&pause=1500&color=00FF41&center=true&vCenter=true&width=900&height=105&lines=Awakening+Protocol+Initiated...;Wake+up+Saksham...;The+Matrix+has+you...;Follow+the+white+rabbit." />
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=25&duration=4200&pause=1500&color=00FF41&center=true&vCenter=true&width=900&height=105&lines=Awakening+Protocol+Initiated...;Wake+up+Saksham...;The+Matrix+has+you...;Follow+the+white+rabbit." />
 </div>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header"/>
 </p>
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=26&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=950&height=110&repeat=false&lines=Choose+Wisely" />
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=30&duration=2000&pause=800&color=00cc33&center=true&vCenter=true&width=950&height=70&repeat=false&lines=Choose+Wisely" />
 </div>
 <div align="center">
 <img src="https://raw.githubusercontent.com/realsakshamgarg/realsakshamgarg/main/Choose Red Pill GIF by Christopher Pindling.gif" alt="Profile GIF" width="420"/>
 </div>
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=24&duration=5200&pause=2000&color=00FF41&center=true&vCenter=true&width=850&height=105&lines=Decision+confirmed...;Executing+Red+Pill...;Reality.exe+initialized...;Access+Granted" />
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=25&duration=5200&pause=2000&color=00FF41&center=true&vCenter=true&width=850&height=105&lines=Decision+confirmed...;Executing+Red+Pill...;Reality.exe+initialized...;Access+Granted" />
 </div>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header"/>
 </p>
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=30&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&width=950&height=70&repeat=false&lines=Entering+Mainframe" />
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=30&duration=2000&pause=800&color=00cc33&center=true&vCenter=true&width=950&height=70&repeat=false&lines=Entering+Mainframe" />
 <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00cc33&center=true&vCenter=true&width=700&height=40&lines=Loading+system+modules..." />
 </div>
 <div align="center">
@@ -63,7 +63,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header"/>
 </p>
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=80&repeat=false&lines=Mission+Objectives" />
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=30&duration=2000&pause=800&color=00cc33&center=true&vCenter=true&width=950&height=70&repeat=false&lines=Mission+Objectives" />
 </div>
 <div align="center">
   
@@ -79,27 +79,17 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header"/>
 </p>
 <div align="center">
-<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=80&repeat=false&lines=Analyzing+System+Performance" />
+<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=30&duration=2000&pause=800&color=00cc33&center=true&vCenter=true&width=950&height=70&repeat=false&lines=System+Connections" />
 </div>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=realsakshamgarg&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" height="170"/>
-<img src="https://streak-stats.demolab.com?user=realsakshamgarg&theme=chartreuse-dark&hide_border=true&background=000000" height="170"/>
-</p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=realsakshamgarg&theme=chartreuse-dark&bg_color=000000&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header"/>
-</p>
-<div align="center">
-<img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=80&repeat=false&lines=System+Connections" />
-</div>
-<p align="center">
-<a href="https://x.com/realsakshamgarg">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41"/>
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF41"/>
 </a>
-<a href="https://github.com/realsakshamgarg">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00FF41"/>
+</a>
+<a href="https://kaggle.com">
+<img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=00FF41"/>
 </a>
 <a href="mailto:sakshamgarg1303@gmail.com">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
