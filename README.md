@@ -24,7 +24,7 @@
 </div>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header"/>
-</p>
+</p> 
 <div align="center">
 <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=30&duration=2000&pause=800&color=00cc33&center=true&vCenter=true&width=950&height=70&repeat=false&lines=Entering+Mainframe" />
 <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00cc33&center=true&vCenter=true&width=700&height=40&lines=Loading+system+modules..." />
