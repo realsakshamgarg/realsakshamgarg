@@ -30,7 +30,7 @@
 <img src="https://readme-typing-svg.vercel.app/?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00cc33&center=true&vCenter=true&width=700&height=40&lines=Loading+system+modules..." />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/realsakshamgarg/realsakshamgarg/main/never ending illusion GIF.gif" alt="Profile GIF" width="600" />
+  <img src="https://raw.githubusercontent.com/realsakshamgarg/realsakshamgarg/main/never ending illusion GIF.gif" alt="Profile GIF" width="900" />
 </div>
 <br>
 <div align="center">
