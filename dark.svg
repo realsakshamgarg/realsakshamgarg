@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
+<style>
+    .key  { fill:#3fb950; font-size:13px; font-weight:700; }
+    .val  { fill:#c9d1d9; font-size:13px; }
+    .acc  { fill:#58a6ff; font-size:13px; }
+    .wrn  { fill:#d29922; font-size:13px; }
+    .mut  { fill:#8b949e; font-size:12px; }
+    .hdr  { fill:#58a6ff; font-size:15px; font-weight:700; }
+    .sec  { fill:#8b949e; font-size:12px; letter-spacing:1px; }
+    .ttl  { fill:#8b949e; font-size:12px; }
+    .row  { opacity:1; animation: fade .35s ease backwards; }
+    @keyframes fade { from { opacity:0; transform:translateY(3px); }
+                       to   { opacity:1; transform:translateY(0); } }
+    .cur  { fill:#3fb950; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity:0; } }
+    </style>
+<rect x="1" y="1" width="978" height="618" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 h954 a12 12 0 0 1 12 12 v25 h-978 z" fill="#161b22"/>
+<line x1="1" y1="38" x2="979" y2="38" stroke="#30363d"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="64" cy="20" r="6" fill="#27c93f"/>
+<text x="490.0" y="24" class="ttl" text-anchor="middle">realsakshamgarg</text>
+<text x="30" y="66" class="row" style="animation-delay:.05s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">profile</tspan></text>
+<text x="90" y="92.0" class="hdr row" style="animation-delay:0.35s">Saksham Garg</text>
+<line x1="90" y1="101.5" x2="940" y2="101.5" stroke="#30363d" class="row" style="animation-delay:0.42s"/>
+<text x="90" y="117.5" class="key row" style="animation-delay:0.49s">Role</text>
+<text x="200" y="117.5" class="val row" style="animation-delay:0.49s">ML Intern @ FlyRank AI</text>
+<text x="90" y="135.0" class="key row" style="animation-delay:0.56s">Education</text>
+<text x="200" y="135.0" class="val row" style="animation-delay:0.56s">B.Tech CSE (Data Science), SRM University · Class of 2028</text>
+<text x="90" y="152.5" class="key row" style="animation-delay:0.63s">Focus</text>
+<text x="200" y="152.5" class="acc row" style="animation-delay:0.63s">Data Analysis · Data Science · Machine Learning</text>
+<text x="90" y="180.0" class="sec row" style="animation-delay:0.70s">~/stack</text>
+<text x="90" y="197.5" class="key row" style="animation-delay:0.77s">Language</text>
+<text x="200" y="197.5" class="val row" style="animation-delay:0.77s">Python · SQL · HTML · CSS · JavaScript</text>
+<text x="90" y="215.0" class="key row" style="animation-delay:0.84s">Frameworks</text>
+<text x="200" y="215.0" class="val row" style="animation-delay:0.84s">Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn</text>
+<text x="90" y="232.5" class="key row" style="animation-delay:0.91s">Database</text>
+<text x="200" y="232.5" class="val row" style="animation-delay:0.91s">MySQL · PostgreSQL</text>
+<text x="90" y="250.0" class="key row" style="animation-delay:0.98s">Tools</text>
+<text x="200" y="250.0" class="val row" style="animation-delay:0.98s">Git · Jupyter Notebook · VS Code · Bash · Docker · PowerBI</text>
+<text x="90" y="277.5" class="sec row" style="animation-delay:1.05s">~/learning</text>
+<text x="90" y="295.0" class="key row" style="animation-delay:1.12s">Goal</text>
+<text x="200" y="295.0" class="val row" style="animation-delay:1.12s">Deep Learning · TensorFlow · PyTorch · Keras</text>
+<text x="90" y="322.5" class="sec row" style="animation-delay:1.19s">~/projects</text>
+<text x="90" y="340.0" class="key row" style="animation-delay:1.26s">proj_01</text>
+<text x="200" y="340.0" class="val row" style="animation-delay:1.26s">Sales Forecasting using Machine Learning</text>
+<text x="90" y="357.5" class="key row" style="animation-delay:1.33s">proj_02</text>
+<text x="200" y="357.5" class="val row" style="animation-delay:1.33s">Movie Recommendation System using Machine Learning</text>
+<text x="90" y="385.0" class="sec row" style="animation-delay:1.40s">~/certs</text>
+<text x="90" y="402.5" class="key row" style="animation-delay:1.47s">IBM</text>
+<text x="200" y="402.5" class="val row" style="animation-delay:1.47s">Data Science Professional</text>
+<text x="90" y="420.0" class="key row" style="animation-delay:1.54s">Google</text>
+<text x="200" y="420.0" class="val row" style="animation-delay:1.54s">Data Analytics Professional</text>
+<text x="90" y="437.5" class="key row" style="animation-delay:1.61s">Coursera</text>
+<text x="200" y="437.5" class="val row" style="animation-delay:1.61s">Machine Learning by Andrew Ng</text>
+<text x="90" y="465.0" class="sec row" style="animation-delay:1.68s">~/reach out</text>
+<text x="90" y="482.5" class="key row" style="animation-delay:1.75s">Portfolio</text>
+<text x="200" y="482.5" class="acc row" style="animation-delay:1.75s">www.realsakshamgarg.in</text>
+<text x="90" y="500.0" class="key row" style="animation-delay:1.82s">Linkedin</text>
+<text x="200" y="500.0" class="acc row" style="animation-delay:1.82s">www.linkedin.com/in/realsakshamgarg</text>
+<text x="90" y="517.5" class="key row" style="animation-delay:1.89s">Mail</text>
+<text x="200" y="517.5" class="acc row" style="animation-delay:1.89s">sakshamgarg1303@gmail.com</text>
+<text x="90" y="535.0" class="key row" style="animation-delay:1.96s">Leetcode</text>
+<text x="200" y="535.0" class="acc row" style="animation-delay:1.96s">www.leetcode.com/realsakshamgarg</text>
+<text x="30" y="596" class="row" style="animation-delay:2.13s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to Data Analyst / Data Scientist roles</tspan><tspan class="cur" dx="8">█</tspan></text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 15 Jul 2026, 05:00 IST</text>
+</svg>
